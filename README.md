@@ -4,7 +4,7 @@ Exercice 1 : Conteneur dynamique générique avec itérateur personnalisé</br>
 
 Exercice 2 : Matrice générique + opérateurs arithmétiques</br>
 
-<img width="850" height="407" alt="Capture d&#39;écran 2026-11-05 112019" src="https://github.com/user-attachments/assets/f39f6575-2753-45f2-b5f3-d551f7fe8d4a" /></br>
+<img width="764" height="875" alt="Capture d&#39;écran 2026-11-05 112003" src="https://github.com/user-attachments/assets/d7e284ae-f95d-47a2-90a0-a96fdd785f9d" /></br>
 <img width="850" height="407" alt="Capture d&#39;écran 2026-11-05 112019" src="https://github.com/user-attachments/assets/d0b9a0e7-9508-4f73-ab4b-e4dfe3c87e46" /></br>
 
 Exercice 3 : Pile générique sécurisée avec std::unique_ptr</br>
